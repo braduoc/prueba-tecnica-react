@@ -1,12 +1,33 @@
-# React + Vite
+# 🧪 Prueba Técnica - Visualizador de Usuarios con React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación simple construida en **React.js** que lista usuarios y permite ver sus detalles en un modal centrado en pantalla. Fue creada como parte de una prueba técnica para evaluar habilidades con React, JSX, estado local (`useState`) y diseño responsivo.
 
-Currently, two official plugins are available:
+## 🖼️ Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Listado de usuarios en una tabla
+- Visualización de detalles en una tarjeta centrada
+- Uso de Bootstrap para estilos rápidos
+- Modal personalizado con manejo de visibilidad
+- Datos consumidos desde props (simulación de API)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Instalación y ejecución
+
+1. **Clona este repositorio**:
+
+```bash
+git clone https://github.com/tu-usuario/nombre-del-repo.git
+```
+
+2. **Instala las dependencias**:
+
+```bash
+npm install
+```
+3. **Inicia el proyecto en modo desarrollo**:
+
+```bash
+npm run dev
+```
+
