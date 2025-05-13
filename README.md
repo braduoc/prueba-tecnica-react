@@ -17,7 +17,7 @@ Este proyecto es una aplicación simple construida en **React.js** que lista usu
 1. **Clona este repositorio**:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+https://github.com/braduoc/prueba-tecnica-react.git
 ```
 
 2. **Instala las dependencias**:
