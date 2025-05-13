@@ -1,14 +1,27 @@
 # 🧪 Prueba Técnica - Visualizador de Usuarios con React
 
-Este proyecto es una aplicación simple construida en **React.js** que lista usuarios y permite ver sus detalles en un modal centrado en pantalla. Fue creada como parte de una prueba técnica para evaluar habilidades con React, JSX, estado local (`useState`) y diseño responsivo.
+Este proyecto es una aplicación simple construida en React.js que lista usuarios, permite ver sus detalles en un modal centrado en pantalla y filtra la tabla en tiempo real. Fue creada como parte de una prueba técnica para evaluar habilidades con:
+
+React y JSX
+
+Manejo de estado local con useState
+
+Efectos secundarios con useEffect
+
+Referencias a elementos del DOM con useRef
+
+Consumo y distribución de estado global usando useContext
+
+Diseño responsivo y rápido con Bootstrap
 
 ## 🖼️ Características
 
 - Listado de usuarios en una tabla
+- Busqueda en tiempo real
 - Visualización de detalles en una tarjeta centrada
 - Uso de Bootstrap para estilos rápidos
 - Modal personalizado con manejo de visibilidad
-- Datos consumidos desde props (simulación de API)
+- Datos consumidos desde api json placeholder
 
 ---
 
